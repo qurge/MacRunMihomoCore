@@ -1,5 +1,7 @@
 # Mac 运行 Mihome 内核
 
+mac 下面有很多 clash 的 gui 客户端，他们都是基于 mihomo 内核进行开发。在 windows 下面使用服务形式运行，同样的思路在 mac 下面运行，内存占用基本上和 windows 差不多。
+
 ## 版本信息
 
 - 使用设备：Apple M4 Pro
